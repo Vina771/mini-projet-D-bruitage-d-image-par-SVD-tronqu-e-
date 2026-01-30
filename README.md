@@ -17,13 +17,11 @@ mini-projet-D-bruitage-d-image-par-SVD-tronqu-e/
 │   └── examen.ipynb
 ├── assets/
 │   └── test.jpg
-├── notebooks/
-├── results/
-├── report/
+├── résultats/
+├── rapport/
 └── slides/
 ```
 
 ## Livrables
-- `report/` : rapport final (PDF)
+- `rapport/` : rapport final (PDF)
 - `slides/` : support de présentation (PDF/PPT)
-
