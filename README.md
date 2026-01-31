@@ -23,5 +23,5 @@ mini-projet-D-bruitage-d-image-par-SVD-tronqu-e/
 ```
 
 ## Livrables
-- `rapport/` : rapport final (PDF)
-- `slides/` : support de présentation (PPT) SVD_Debruitage.pptx https://docs.google.com/presentation/d/1XEciEmp5c8ETStDznaoY6DM8nfc9T888/edit?usp=sharing&ouid=109532383792483928080&rtpof=true&sd=true
+- `rapport/` : rapport final (PDF): Rapport_Debruitage_SVD .pdf https://drive.google.com/file/d/1iThgu-FpdkEZMKtJzZSnClwBFzokjf5q/view?usp=drive_link
+- `slides/` : support de présentation (PPT): SVD_Debruitage.pptx https://docs.google.com/presentation/d/1XEciEmp5c8ETStDznaoY6DM8nfc9T888/edit?usp=sharing&ouid=109532383792483928080&rtpof=true&sd=true
